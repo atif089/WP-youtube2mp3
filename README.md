@@ -10,6 +10,8 @@ This plugin take the Youtube video URL, converts the video into MP3 and returns 
 
 Usage
 ----------
+ 1. Activate the plugin
+ 2. Use the following code after the page loads on your theme's javascript file
 
 ```javascript
 new yt2mp3('http://www.youtube.com/watch?v=cLyCQUsJhdY', $('#containerID'));
