@@ -1,0 +1,31 @@
+a.yt2mp3 {
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #fafafa;
+	padding: 10px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#03ddfa 0%,
+		#1068a3);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#03ddfa),
+		to(#1068a3));
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	border: 1px solid #a6a4a6;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 1px rgba(255,255,255,0.7);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
