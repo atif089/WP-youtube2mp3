@@ -12,5 +12,5 @@ Usage
 ----------
 
 ```javascript
-new yt2mp3('http://www.youtube.com/watch?v=cLyCQUsJhdY', $('#containerID');
+new yt2mp3('http://www.youtube.com/watch?v=cLyCQUsJhdY', $('#containerID'));
 ```
